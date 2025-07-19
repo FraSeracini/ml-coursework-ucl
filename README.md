@@ -12,10 +12,8 @@ This repository contains my submission for the COMP0142 Machine Learning coursew
 The coursework focused on applying machine learning concepts such as:
 
 - Polynomial and linear regression
+- Regularization
 - Logistic regression
-- Naive Bayes classifiers
-- Support Vector Machines (SVMs)
-- Model selection and evaluation
 
 All implementations were carried out using Python and standard ML libraries in a Jupyter notebook environment.
 
